@@ -1,20 +1,4 @@
-<h1 align="center">Hello! 👋, I'm Nandagopal</h1>
-<h3 align="center">A curious Information Technology Student from India.</h3>
-
-- 🔭 I’m currently working on [Farmer's Assist Network](https://github.com/nanda-gopal-sb/FINS)
-
-- 🌱 I’m currently learning **Game Dev in Unity**
-
-- My next project is **A RPG game with good mechanics**
-
-- 🤝 I’m looking for help with **3D website made using ThreeJs**
-
-- 💬 Ask me about **Flutter, Unity and C#**
-
-- 📫 How to reach me **nandagopal.nsb@gmail.com**
-
-- ⚡ Fun fact **I like old movies :)**
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=500&size=26&duration=4952&pause=1000&color=A7E7FF&center=true&vCenter=true&random=false&width=435&lines=Hello!+My+Name+is+Nandagopal;An+Enginner+in+Training)](https://git.io/typing-svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nandagopalsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nandagopalsb" height="30" width="40" /></a>
