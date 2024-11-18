@@ -1,11 +1,11 @@
 <h2>Welcome to my profile!</h2>
 
 <h3 align="left">Languages</h3>
- <img src="https://skillicons.dev/icons?i=cpp,c,bash,dart,js,py," />
+ <img src="https://skillicons.dev/icons?i=c,cpp,cs,bash,dart,js,py" />
 <h3 align="left">Tools:</h3>
- <img src="https://skillicons.dev/icons?i=git,vscode,linux,windows,visualstudio" />
+ <img src="https://skillicons.dev/icons?i=git,vscode,linux,windows,visualstudio,apple" />
 <h3 align="left">Frameworks</h3>
- <img src="https://skillicons.dev/icons?i=fastapi,express,gtk,flutter,react,tensorflow,unity"/>
+ <img src="https://skillicons.dev/icons?i=fastapi,express,gtk,flutter,tensorflow,unity"/>
 
 <h3></h3>
 
