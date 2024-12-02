@@ -7,10 +7,6 @@
 <h3 align="left">Frameworks</h3>
  <img src="https://skillicons.dev/icons?i=fastapi,express,flutter,tensorflow,unity"/>
 
-<h3></h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-gopal-sb&&hide_border=true&layout=donut&theme=cobalt" alt="nanda-gopal-sb" />
-
 
 
 
