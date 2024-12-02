@@ -6,7 +6,3 @@
  <img src="https://skillicons.dev/icons?i=git,vscode,linux,windows,visualstudio,apple,nodejs" />
 <h3 align="left">Frameworks</h3>
  <img src="https://skillicons.dev/icons?i=fastapi,express,flutter,tensorflow,unity"/>
-
-![nanda-gopal-sb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nanda-gopal-sb&theme=tokyonight&hide_border=true)
-
-
