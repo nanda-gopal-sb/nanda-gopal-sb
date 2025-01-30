@@ -1,4 +1,4 @@
-<h2>Welcome to my profile!</h2>
+<h3>Welcome to my profile</h3>
 
 <h3 align="left">Languages</h3>
  <img src="https://skillicons.dev/icons?i=c,cpp,cs,bash,dart,js,py" />
